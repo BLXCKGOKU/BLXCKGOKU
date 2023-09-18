@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLXCKGOKU
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in WED DEVELOPMENT, MOBILE APP DEVELOPING.
+- 🌱 I’m currently learning and learned HTML, CSS, PYTHON, JAVA, JAVASCRIPT, BALLERINA
+- 💞️ I’m looking to collaborate on BUILDING PROJECTS
 - 📫 How to reach me ndinokazenango@gmail.com
 
 <!---
