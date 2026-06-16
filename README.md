@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏽 I am Ndino Kazenango</h1>
 <h3 align="center">Full-Stack Developer from Namibia</h3>
 
-<p align="left"> <a href="https://github.com/BLXCKGOKU"><img src="https://github-profile-trophy.vercel.app/?username=blxckgoku" alt="Ndino Kazenango" /></a> </p>
+<p align="left"> <a href="https://github.com/BLXCKGOKU"><img src="https://github-profile-trophy.vercel.app/?username=blxckgoku" alt="Ndino Kazenango Github" /></a> </p>
 
 - 🔭 I’m currently working on **Nust Hostel Management System at NUST**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ndino kazenango" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:6c373362-1d10-46a1-bb4c-fcb492af6363/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png)" alt="ndino kazenango" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ndino kazenango" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:6c373362-1d10-46a1-bb4c-fcb492af6363/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png)" alt="ndino kazenango LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
