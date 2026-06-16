@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏽 I am Ndino Kazenango</h1>
 <h3 align="center">Full-Stack Developer from Namibia</h3>
 
-<p align="left"> <a href="https://github.com/BLXCKGOKU"><img src="https://github-profile-trophy.vercel.app/?username=blxckgoku" alt="blxckgoku" /></a> </p>
+<p align="left"> <a href="https://github.com/BLXCKGOKU"><img src="https://github-profile-trophy.vercel.app/?username=blxckgoku" alt="Ndino Kazenango" /></a> </p>
 
 - 🔭 I’m currently working on **Nust Hostel Management System at NUST**
 
